@@ -37,7 +37,7 @@ function Navbar() {
     <nav className="navbar fixed-top navbar-expand navbar-dark bg-success">
       <div className="container">
         <a className="navbar-brand" href="/">
-          BechaKena
+          KenaBecha
         </a>
         <ul className="navbar-nav me-auto mb-lg-0">
           <li className="nav-item me-1">
