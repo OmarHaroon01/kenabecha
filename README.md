@@ -58,6 +58,7 @@ To run this project locally, follow these steps:
 
     ```env
     EMAIL=your_email
+    #Visit https://security.google.com/settings/security/apppasswords to create app password
     PASSWORD=your_app_password
     ```
 
