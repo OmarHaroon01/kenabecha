@@ -83,5 +83,3 @@ To run this project locally, follow these steps:
 - **Register/Login**: Create an account or log in to your existing account.
 - **Create a Listing**: Post your item for sale with detailed information and images.
 - **Search and Filter**: Use the search bar and filters to find items you are interested in.
-- **Contact Seller/Buyer**: Use the messaging system to communicate with other users.
-- **Complete a Transaction**: Arrange payment and delivery details through the platform.
