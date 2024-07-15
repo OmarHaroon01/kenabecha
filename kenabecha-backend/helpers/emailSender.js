@@ -4,8 +4,8 @@ const sendEmail = async (toAddress, link) => {
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-            user: '', //Email to send email from
-            pass: '' //App password of the email
+            user: process.env.EMAIL, //Email to send email from
+            pass: process.env.PASSWORD //App password of the email
         }
     });
 
