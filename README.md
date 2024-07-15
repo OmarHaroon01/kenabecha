@@ -9,9 +9,6 @@ Welcome to Kenabecha, your go-to platform for buying and selling second-hand ite
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 
